@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/krausyd/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/krausyd/jest-another-RPG#readme"
+  "homepage": "https://github.com/krausyd/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
