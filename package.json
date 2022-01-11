@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG game to use jest",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krausyd/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "nodejs",
+    "rpg",
+    "node",
+    "javascript"
+  ],
+  "author": "krausyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krausyd/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/krausyd/jest-another-RPG#readme"
+}
